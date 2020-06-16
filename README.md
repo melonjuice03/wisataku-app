@@ -1,7 +1,7 @@
 # Wisataku App
 
-Untuk memulai, arahkan direktori ke folder backend dengan terminal
-lalu ketikkan "node server.js"
+To get started, Change the directory to backend folder with terminal
+then type "node server.js"
 
-Setelah server sudah berjalan, selanjutnya buka/tambahkan 1 terminal
-dan arahkan direktori ke folder frontend, lalu ketikkan "npm start"
+After the server has been run, open a new terminal
+and change the directory to frontend folder, then type "npm start"
